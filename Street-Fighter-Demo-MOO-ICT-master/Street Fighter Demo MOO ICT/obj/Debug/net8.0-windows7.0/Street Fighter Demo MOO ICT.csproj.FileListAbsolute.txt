@@ -1,0 +1,53 @@
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.Form1.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\refint\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\ref\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.Form1.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.Properties.Resources.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\refint\Street Fighter Demo MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\01\Street-Fighter-Demo-MOO-ICT-master\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\ref\Street Fighter Demo MOO ICT.dll
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.exe
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.deps.json
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.runtimeconfig.json
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\bin\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.Form1.resources
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.Properties.Resources.resources
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.GenerateResource.cache
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfoInputs.cache
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.AssemblyInfo.cs
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.csproj.CoreCompileInputs.cache
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.dll
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\refint\Street Fighter Demo MOO ICT.dll
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.pdb
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street Fighter Demo MOO ICT.genruntimeconfig.cache
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\ref\Street Fighter Demo MOO ICT.dll
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.CharacterSelection.resources
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.MainMenu.resources
+C:\DevC\!Projeto-01\Street-Fighter-Demo-MOO-ICT-master\Street Fighter Demo MOO ICT\obj\Debug\net8.0-windows7.0\Street_Fighter_Demo_MOO_ICT.GameWindow.resources
